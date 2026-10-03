@@ -1,0 +1,24 @@
+{
+  "name": "loose · 轻盈一点",
+  "short_name": "loose",
+  "description": "轻松记录饮食、体重与月目标",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7f1",
+  "theme_color": "#385c44",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
